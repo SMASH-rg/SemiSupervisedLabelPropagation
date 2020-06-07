@@ -1,2 +1,2 @@
-# SemiSupervisedLabelPropagation
-Semi-supervised label propagation
+# SemiSupervised Stance detection
+This repository contains code for SemiSupervised satance detection
